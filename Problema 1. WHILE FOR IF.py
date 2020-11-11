@@ -6,4 +6,4 @@ elif n==30:
 elif n==31:
     print('lunile sunt ianuarie, martie, mai, iulie, august, octombrie, decembrie')
 else: 
-    print('nu exista luni cu asa numarde zile')
+    print('nu exista luni cu asa numar de zile')
