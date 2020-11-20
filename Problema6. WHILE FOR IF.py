@@ -13,7 +13,6 @@ elif s1>s2:
 else:
     print('Sumele sunt egale')
 
-#b
 n=eval(input('b) Introduceti numarul:'))
 S1 = 0
 S2 = 0
